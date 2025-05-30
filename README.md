@@ -64,8 +64,10 @@ Make sure you have MongoDB running locally or use a cloud MongoDB URI
 
 👨‍💻 Author
 Made with ❤️ by Malick Muzamil
+📧 malikmuzamil92110@gmail.com
 🔗 LinkedIn
-📫 malikmuzamil92110@example.com
+📫 https://www.linkedin.com/in/malik-muzamil/
+
 
 ---
 
