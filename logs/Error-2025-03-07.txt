@@ -1,0 +1,2 @@
+{"level":"error","message":"400 - Error: Login failed: User already exists with this email","timestamp":"2025-03-07 23:54:05"}
+{"level":"error","message":"400 - Error: Login failed: User already exists with this email","timestamp":"2025-03-07 23:54:59"}

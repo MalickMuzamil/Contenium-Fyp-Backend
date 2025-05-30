@@ -1,0 +1,1 @@
+{"level":"error","message":"400 - Error: User already exists with this email","timestamp":"2025-03-05 22:48:57"}
